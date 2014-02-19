@@ -1,0 +1,4 @@
+description = "Browser specific functionalities for OBrowser"
+requires = ""
+version = "2"
+archive(byte) = "obrowser.cma obrowser_dllgraphics.js  obrowser_dllstdlib.js  obrowser_dllvmthreads.js obrowser_dllobrowser.js  obrowser_dllunix.js"
